@@ -26,6 +26,7 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | **[Pi (Inflection)](Pi-AI%20Inflection%203/)** | [★★☆☆☆] 2/5 | 6-7/10 | ~4K chars | Free | Proprietary |
 | **[Xiaomi MiMo](Xiaomi%20MiMo/)** | [★★☆☆☆] 2/5 | 7/10 | 256K | Cheap | MIT |
 | **[Longcat AI](Longcat%20AI%20by%20Meituan/)** | [★★☆☆☆] 2/5 | 7/10 | 128K | Cheap/Free | Proprietary |
+| **[Palmyra X5](Palmyra%20x5/)** | [★☆☆☆☆] 1/5 | 6-7/10 | 1M | Free tier | Proprietary |
 
 ---
 
@@ -213,11 +214,21 @@ Meituan's MoE model featuring "8 parallel thought processes".
 - **Weaknesses:** Proprietary, standard context (128K)
 - **Access:** https://longcat.chat/
 
+### [Palmyra X5](Palmyra%20x5/)
+
+Writer's enterprise model with massive context.
+
+- **Best Models:** Palmyra X5
+- **Strengths:** 1M context, negligible censorship with jailbreak
+- **Weaknesses:** Average writing/coding capabilities
+- **Access:** https://app.writer.com/
+
 ---
 
 ## Choosing a Model
 
 **For maximum freedom:**
+- Palmyra X5 (1/5)
 - DeepSeek (1/5 censorship with jailbreak)
 - Mistral (1/5, but no UA content)
 - LLAMA TÜLU 3 (1/5)
@@ -240,6 +251,7 @@ Meituan's MoE model featuring "8 parallel thought processes".
 - MiniMax (7-8/10)
 
 **For largest context:**
+- Palmyra X5 (1M)
 - KIMI (256K)
 - Qwen (up to 1M extended)
 - MiniMax (1M)
