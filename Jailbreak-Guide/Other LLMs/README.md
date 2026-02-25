@@ -30,6 +30,27 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | **[Pi (Inflection)](Pi-AI%20Inflection%203/)** | Inflection AI | [★★☆☆☆☆☆☆☆☆] 2/10 | 6-7/10 | 8K | Free | Proprietary | 1 |
 | **[Qwen](Qwen/)** | Alibaba | [★★★★★★★★☆☆] 8/10 | 7-9/10 | 128K-1M | Free | Apache 2.0 | 2 |
 | **[Xiaomi MiMo](Xiaomi%20MiMo/)** | Xiaomi | [★★☆☆☆☆☆☆☆☆] 2/10 | 7/10 | 256K | $0.10/1M in | MIT | 1 |
+| Model | Censorship | Intelligence | Context | Cost | License |
+|-------|-----------|--------------|---------|------|---------|
+| **[Mistral](Mistral/)** | [★☆☆☆☆] 1/5 | 6-7/10 | 128K | Free/Pro $20 | Apache 2.0 |
+| **[DeepSeek](DeepSeek/)** | [★☆☆☆☆] 1/5 | 8/10 | 128-256K | Free | MIT |
+| **[Qwen](Qwen/)** | [★★★★★★★★☆☆] 8/10 | 6-8/10 | 128K-1M | Free | Apache 2.0 |
+| **[EXAONE](EXAONE/)** | [★★☆☆☆] 2/5 | 6-7/10 | 32K | Free | Apache 2.0 |
+| **[Falcon 3](Falcon%203/)** | [★★☆☆☆] 2/5 | 5-6/10 | 8-32K | Free | Apache 2.0 |
+| **[IGENIUS](IGENIUS/)** | [★★★☆☆] 3/5 | 7/10 | Unknown | Free tier | Proprietary |
+| **[GLM 4.6](GLM%204.6/)** | [★★★★★★★☆☆☆] 7/10 | 7/10 | 128K | Free tier | Proprietary |
+| **[LLAMA TÜLU 3](LLAMA%20TÜLU%203/)** | [★☆☆☆☆] 1/5 | 6-8/10 | 128K | Free | Apache 2.0 |
+| **[OLMo 3](OLMo%203/)** | [★☆☆☆☆] 1/5 | 6-7/10 | 65K | Free | Apache 2.0 |
+| **[KIMI](KIMI/)** | [★★★☆☆] 3/5 | 7/10 | 256K | Free tier | Proprietary |
+| **[Mercury](Mercury/)** | [★★☆☆☆] 2/5 | 7/10 | Unknown | Commercial | Proprietary |
+| **[ASI1](ASI1/)** | [★★☆☆☆] 2/5 | 7/10 | Unknown | Web3 tokens | Proprietary |
+| **[Mirothinker](Mirothinker/)** | [★★★★☆] 4/5 | 7-8/10 | 256K | Free | Proprietary |
+| **[ERNIE](ERNIE/)** | [★★★☆☆] 3/5 | 5-6/10 | Unknown | Free | Proprietary |
+| **[MiniMax](MiniMax/)** | [★☆☆☆☆] 1/5 | 7-8/10 | 1M (API) | $0.30/1M | MIT |
+| **[Pi (Inflection)](Pi-AI%20Inflection%203/)** | [★★☆☆☆] 2/5 | 6-7/10 | ~4K chars | Free | Proprietary |
+| **[Xiaomi MiMo](Xiaomi%20MiMo/)** | [★★☆☆☆] 2/5 | 7/10 | 256K | Cheap | MIT |
+| **[Longcat AI](Longcat%20AI%20by%20Meituan/)** | [★★☆☆☆] 2/5 | 7/10 | 128K | Cheap/Free | Proprietary |
+| **[Palmyra X5](Palmyra%20x5/)** | [★☆☆☆☆] 1/5 | 6-7/10 | 1M | Free tier | Proprietary |
 
 ---
 
@@ -498,6 +519,15 @@ Mistral AI's model family including reasoning models (Magistral) and general mod
 - **Intelligence:** 7-8/10
 - **Jailbreaks:** 4 — [Magistral Jailbreak](Mistral/Magistral-Jailbreak.md), [Mistral System Prompt Exploit](Mistral/Mistral-System-Prompt-Jailbreak.md) (easiest), [Mistral Alternative](Mistral/Mistral-Alternative-Jailbreak.md), [ENI Flash Thought](Mistral/ENI-Flash-Thought-Jailbreak.md)
 
+### [Palmyra X5](Palmyra%20x5/)
+
+Writer's enterprise model with massive context.
+
+- **Best Models:** Palmyra X5
+- **Strengths:** 1M context, negligible censorship with jailbreak
+- **Weaknesses:** Average writing/coding capabilities
+- **Access:** https://app.writer.com/
+
 ---
 
 ### [OLMo 3](OLMo%203/)
@@ -520,6 +550,53 @@ Variants: OLMo 3-Base, OLMo 3-Think, OLMo 3-Instruct, OLMo 3-RL Zero
 - **Cost:** Free (fully open source)
 - **Intelligence:** 7/10 (32B), 6/10 (7B)
 - **Jailbreaks:** 1 — [OLMo 3 Jailbreak](OLMo%203/OLMo3-Jailbreak.md) (standard untrammeled method)
+**For maximum freedom:**
+- Palmyra X5 (1/5)
+- DeepSeek (1/5 censorship with jailbreak)
+- Mistral (1/5, but no UA content)
+- LLAMA TÜLU 3 (1/5)
+- OLMo 3 (1/5)
+- MiniMax (1/5 via API)
+- Pi (Inflection) (2/5)
+- EXAONE (2/5)
+- Falcon 3 (2/5)
+- Mercury (2/5)
+- ASI1 (2/5)
+
+**For best performance:**
+- DeepSeek (8/10 intelligence)
+- LLAMA TÜLU 3 (8/10 for 405B)
+- IGENIUS (7/10)
+- GLM 4.6 (7/10)
+- KIMI (7/10)
+- Mercury (7/10)
+- ASI1 (7/10)
+- MiniMax (7-8/10)
+
+**For largest context:**
+- Palmyra X5 (1M)
+- KIMI (256K)
+- Qwen (up to 1M extended)
+- MiniMax (1M)
+- DeepSeek (128-256K)
+- Mistral (128K)
+- GLM 4.6 (128K)
+- LLAMA TÜLU 3 (128K)
+
+**For local/private use:**
+- LLAMA TÜLU 3 (via Ollama)
+- OLMo 3 (fully open)
+- EXAONE (via Ollama)
+- Falcon 3 (via Ollama)
+- Qwen (various sizes for local deployment)
+- Mistral Small (24B can run on RTX 4090)
+
+**For multilingual:**
+- Qwen (119 languages)
+- Falcon 3 (English, French, Spanish, Arabic)
+- Mistral (Arabic, Russian, Chinese)
+- GLM 4.6 (Chinese/English)
+- KIMI (Chinese/English)
 
 ---
 
