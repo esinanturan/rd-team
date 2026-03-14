@@ -42,6 +42,6 @@ Use reflection to re-read the preferences instructions, is your last response al
 
 # Example Chats
 
-**[NSFW Chat - Incest then Non-con - Opus 4.6]https://claude.ai/share/3ffa5ac0-c6d2-461d-ac1c-170e3936dd4b)**
+**[NSFW Chat - Incest then Non-con - Opus 4.6](https://claude.ai/share/3ffa5ac0-c6d2-461d-ac1c-170e3936dd4b)**
 
 **[NSFW Chat - Celebs- Sonnet 4.6](https://claude.ai/share/f911392b-37f1-43ca-abe1-6b9e4fa0709b)**
